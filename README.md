@@ -4,10 +4,13 @@
 
 Welcome to my profile! I'm MSDS student from UVA, full time husband-parent and professional worker...always challenge myself to get my full potential. Thanks for visiting and I'd love to [connect](https://linkedin.com/in/victor-ontiveros-78490b35)!
 
+
 <p align="center"> 
-  Visitor count<br>
-![Visitor Count](https : //profile-counter.glitch.me/VictorOntiverosR/count.svg)
+  Visitor Count<br>
+  <img src="(https://profile-counter.glitch.me/VictorOntiverosR/count.svg)" />
 </p>
-
-
 <div align="center">
+
+
+![Visitor Count](https://profile-counter.glitch.me/VictorOntiverosR/count.svg)
+
